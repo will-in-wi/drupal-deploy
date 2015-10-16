@@ -99,7 +99,7 @@ set :branch, 'dev'
 For more information about configuration http://capistranorb.com/
 
 
-## Deployement
+## Deployment
 
 Run deploy
 
